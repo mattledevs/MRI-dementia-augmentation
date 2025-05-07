@@ -1,0 +1,7 @@
+# ignore all file types
+.DS_Store
+.keras
+.pkl
+
+# ignore all files in the saved_models directory
+saved_models/
