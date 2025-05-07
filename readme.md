@@ -1,5 +1,9 @@
 # Dimentia MRI Classification
 
+## Saved Models 
+Since saved models are large .keras files, download them from this dropbox link: https://www.dropbox.com/scl/fo/ce9qt8vwjzs18jhe9zm5l/AIi8cop4l1eb53B3kpFWwCo?rlkey=emch6zix4bvf8gpjap0xhk64m&dl=0
+Be sure to add the folder 'saved_models' in the root folder and then add the folder name to your gitignore file. 
+
 ## Data
 https://www.kaggle.com/datasets/matthewhema/mri-dementia-augmentation-no-data-leak
 
